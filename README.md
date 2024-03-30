@@ -11,4 +11,4 @@ In the link, we provide 4K resolution version, which makes it easy for users to 
 If you have any questions, please contact us (chikaichen@mail.nwpu.edu.cn).
 
 # Acknowledgments
-Code is implemented based on https://github.com/XJTU-XGU/RSDA.
+Code is implemented based on https://github.com/XJTU-XGU/RSDA and https://github.com/hhqweasd/G2R-ShadowNet.
